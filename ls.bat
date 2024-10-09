@@ -1,0 +1,1 @@
+@"%SYSTEMDRIVE%\Users\Prakash Niroula\Path\ls\ls.exe" --color %*
